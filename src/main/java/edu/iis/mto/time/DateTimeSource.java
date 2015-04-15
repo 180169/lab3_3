@@ -11,6 +11,6 @@ import org.joda.time.DateTime;
  *
  * @author Godzio
  */
-public interface DataTimeSource {
+public interface DateTimeSource {
     public DateTime getDateTime();
 }
